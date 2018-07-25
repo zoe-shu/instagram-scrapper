@@ -6,5 +6,6 @@ $ npm install
 $ npm start
 ```
 
-#Usage
+-Usage
+
 use postman to access http://localhost:8097/ig_id=username
